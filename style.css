@@ -159,7 +159,7 @@ img {
   cursor: pointer;
 }
 
-/*Active menu*/
+
 .active-link::after {
   position: absolute;
   content: "";
@@ -170,12 +170,12 @@ img {
   background-color: var(--first-color);
 }
 
-/*=== Show menu ===*/
+
 .show {
   right: 0;
 }
 
-/*===== HOME =====*/
+
 .home {
   position: relative;
   row-gap: 5rem;
